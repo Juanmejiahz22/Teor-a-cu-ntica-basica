@@ -18,4 +18,4 @@ Posee la libreria de testeo de estos mismos y tanto como de las funciones utiliz
 
 ## Requisitos para usar el sistema
 
-Debe de poseer la version a ***Python*** superior a 3.5, adicionalmente debe de poseer la libreria math e descargar el repositorio y usar los ejemplos dados para mayor factibilidad
+Debe de poseer la version de ***Python*** superior a 3.5, adicionalmente debe de poseer la libreria math y descargar el repositorio para usar los ejemplos dados con mayor factibilidad
